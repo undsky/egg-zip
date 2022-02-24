@@ -1,13 +1,8 @@
-<!--
- * @Author: 姜彦汐
- * @Date: 2021-01-02 20:50:14
- * @LastEditors: 姜彦汐
- * @LastEditTime: 2021-04-22 10:12:22
- * @Description: 
- * @Contact: jiangyanxi@live.com
- * @FilePath: /egg-zip/README.md
--->
 # egg-zip
+
+> Egg plugin for zip
+
+
 ## 安装
 
 ```bash
@@ -48,6 +43,11 @@ config.zip = {
 
 };
 ```
+
+## 示例
+
+## [查看更多项目](https://www.undsky.com)
+
 ## License
 
 [MIT](LICENSE)

@@ -1,7 +1,7 @@
 {
   "name": "egg-zip",
-  "version": "3.0.0",
-  "description": "",
+  "version": "1.0.0",
+  "description": "Egg plugin for zip",
   "eggPlugin": {
     "name": "zip"
   },
@@ -13,7 +13,6 @@
     "unzip"
   ],
   "dependencies": {
-    "bytenode": "^1.3.4",
     "archiver": "^5.3.0",
     "node-stream-zip": "^1.15.0"
   },
@@ -50,12 +49,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-zip.git"
+    "url": "git+https://github.com/undsky/egg-zip.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/undsky/egg-zip/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-zip#readme",
-  "author": "姜彦汐",
+  "homepage": "https://github.com/undsky/egg-zip#readme",
+  "author": "姜彦汐 https://www.undsky.com",
   "license": "MIT"
 }
